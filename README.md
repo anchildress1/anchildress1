@@ -2,7 +2,7 @@
 
 # Ashley’s Wide World of Caffeinated Chaos 🦄🌪️
 
-> [!TIP]
+> [!IMPORTANT]
 > If you’re looking for the **professional version**, check out my [LinkedIn](https://linkedin.com/in/anchildress1).
 > This? This is my fun space. 🫶
 
@@ -73,10 +73,10 @@ New posts are mostly about GitHub Copilot, but the topic roulette wheel spins ra
 
 **CI/CD & Quality:** ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-%230073B3.svg?style=flat&logo=liquibase&logoColor=white) ![TeamCity](https://img.shields.io/badge/TeamCity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
-**Socials:** [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=flat)](https://dev.to/anchildress1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anchildress1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anchildress1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anchildress1)
+**Socials:** [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=flat)](https://dev.to/anchildress1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anchildress1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anchildress1) [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat-square)](https://www.reddit.com/user/anchildress1/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anchildress1)
 
 ---
 
-## 💰 You can help me by Donating
+## 💰Caffeine-Driven Development Fund
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anchildress1)
