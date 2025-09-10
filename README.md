@@ -77,6 +77,12 @@ New posts are mostly about GitHub Copilot, but the topic roulette wheel spins ra
 
 ---
 
+![GitRoll Stats for Ashley](https://gitroll.io/api/badges/profiles/v1/uWzdOqhRHqCMvGwNH6KkRJ1c611v1?theme=dracula)
+
+> 🦄 I know this complains because everything that would count as a contribution is locked away in a different user. I'm going to work on that, but in the meantime it's not a terrible score, considering the zereos. Although, I am not happy it gave me a junior score. Gonna fix that, too! 🤪
+
+---
+
 ## 💰Caffeine-Driven Development Fund
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anchildress1)
