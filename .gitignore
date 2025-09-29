@@ -1,2 +1,3 @@
 **/*.crossnote
 *.tmp
+.DS_Store
