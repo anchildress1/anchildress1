@@ -47,6 +47,7 @@ These are the projects that escaped work — half-banned experiments, dev rants 
 
 - **[CheckMarK](https://github.com/yourusername/checkmark)** ⚡ – hack-time junk drawer: Copilot mischief, repo workflows, anything and everything else that didn’t fit elsewhere.
   - **[Underfoot Underground Travel Planner](https://github.com/CheckMarKDevTools/underfoot-underground-travel-planner)** — This started as a hackathon project, but it's evolving into a full-fledged tool. Read all about its origin in my [submission post on Dev](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684).
+- **[My Hermetic Agent](https://github.com/anchildress1/my-hermantic-agent)**🔮⚡ – A small but dangerous playground for Hermes-4-14B: hybrid reasoning, tool use, dual memory, and zero guardrails. It’s just me seeing what happens when you give a capable model too much freedom and a TimescaleDB to remember its crimes.
 - **[RAI-Lint](https://github.com/anchildress1/rai-lint)** 🤖⚖️ – Because AI should follow the rules too. Linting for Responsible AI practices: bias detection, fairness checks, and ethical guardrails baked right into your CI/CD pipeline. If your model can't pass the vibe check, it doesn't ship. I started [a Dev blog](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l) on this topic and then quickly got sidetracked with implementation.
 - **[NPM JS Template (aka Lint Lockdown)](https://www.github.com/anchildress1/npm-nodejs-template)** – the “friendly” tool that makes sure you _can’t_ escape conventional commits or proper formatting.
 - **[Awesome GitHub Copilot](https://github.com/anchildress1/awesome-github-copilot)** – custom instructions, prompts and chat modes for GitHub Copilot, each with its own personality.
@@ -63,28 +64,100 @@ I blog weekly on **[DevTO](https://dev.to/anchildress1)** ☕ — equal parts ch
 
 ## 💻 Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+### 🧩 Languages
 
-**Frameworks / Tools:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/nodejs-5FA04E?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=2361DAFB) ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat) ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat)
+<div>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+</div>
 
-**🗄️ Databases & Query:** ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![DB2](https://img.shields.io/badge/IBM_DB2-054ADA?logo=ibm&logoColor=white) ![Google Bigtable Badge](https://img.shields.io/badge/Google%20Bigtable-669DF6?logo=googlebigtable&logoColor=fff&style=flat)
+### ⚙️ Frameworks & Tools
 
-**Cloud & Infra:** ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat) ![PCF](https://img.shields.io/badge/Pivotal_Cloud_Foundry-0066CC?logo=pivotal&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodejs-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=fff" />
+</div>
 
-**AI & Automation:** ![Verdent AI Badge](./verdent-logo-badge.svg) ![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=flat) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%234B3263.svg?style=flat&logo=openai&logoColor=white) ![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff) ![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat)
+### 🗄️ Databases & Query
 
-**CI/CD & Quality:** ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Liquibase Badge](https://img.shields.io/badge/Liquibase-2962FF?logo=liquibase&logoColor=fff&style=flat) ![TeamCity](https://img.shields.io/badge/TeamCity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![SonarQube Cloud Badge](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff&flat) ![Code Climate Badge](https://img.shields.io/badge/Code%20Climate-000?logo=codeclimate&logoColor=fff&style=flat) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Conventional Commits Badge](https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=fff&style=flat)
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=000" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_DB2-054ADA?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Bigtable-669DF6?style=flat&logo=googlebigtable&logoColor=fff" />
+</div>
 
-**Socials:** [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=flat)](https://dev.to/anchildress1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/anchildress1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@anchildress1) [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/anchildress1/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat)](https://youtube.com/@anchildress1)
+### ☁️ Cloud & Infra
+
+<div>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Pivotal_Cloud_Foundry-0066CC?style=flat&logo=pivotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=flat&logo=githubpages&logoColor=fff" />
+</div>
+
+### 🤖 AI & Automation
+
+<div>
+  <!-- Verdent must stay flat -->
+  <img src="./verdent-logo-badge.svg" />
+
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat&logo=githubcopilot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/ChatGPT-4B3263?style=flat&logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Kiro-8030FF?style=flat&logo=ghost&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=fff" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=fff" />
+</div>
+
+### 🚀 CI/CD & Quality
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TeamCity-000?style=flat&logo=teamcity&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=flat&logo=sonarqubecloud&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Code%20Climate-000?style=flat&logo=codeclimate&logoColor=fff" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-FE5196?style=flat&logo=conventionalcommits&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Lefthook-FF1E1E?logo=lefthook&logoColor=fff&style=flat" />
+</div>
+
+---
+
+## 🌐 Socials
+
+<div>
+  <a href="https://dev.to/anchildress1">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=fff" />
+  </a>
+  <a href="https://linkedin.com/in/anchildress1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@anchildress1">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/anchildress1">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=fff" />
+  </a>
+  <!-- ☕ Coffee badge -->
+  <a href="https://buymeacoffee.com/anchildress1">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
 
 ---
 
 [![GitRoll Stats for Ashley](https://gitroll.io/api/badges/profiles/v1/uWzdOqhRHqCMvGwNH6KkRJ1c611v1?theme=dracula)](https://gitroll.io/profile/uWzdOqhRHqCMvGwNH6KkRJ1c611v1)
 
 > 🦄 I know this complains because everything that would count as a contribution is locked away in a different user. I'm going to work on that, but in the meantime it's not a terrible score, considering the zereos. Although, I am not happy it gave me a junior score. Gonna fix that, too! 🤪
-
----
-
-## 💰Caffeine-Driven Development Fund
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anchildress1)
