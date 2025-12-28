@@ -12,7 +12,7 @@ Backend engineer by trade. **AI Champion 🦾 and Occasional Doctor 🩺** — I
 
 ## Method to the Madness 🌀
 
-> “…There was madness in any direction… A fantastic universal sense that whatever we were doing was right… Our energy would simply prevail… We had all the momentum… We were riding the crest of a high and beautiful wave… And in a very real sense, **the tendency is to push it as far as you can.**
+> There was madness in any direction… A fantastic universal sense that whatever we were doing was right… Our energy would simply prevail… We had all the momentum… We were riding the crest of a high and beautiful wave… And in a very real sense, **the tendency is to push it as far as you can.**
 >
 > — Hunter S. Thompson
 
@@ -150,9 +150,11 @@ I blog weekly on **[DevTO](https://dev.to/anchildress1)** ☕ — equal parts ch
   <a href="https://www.reddit.com/user/anchildress1">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=fff" />
   </a>
-  <!-- ☕ Coffee badge -->
   <a href="https://buymeacoffee.com/anchildress1">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+    <a href="https://github.com/sponsors/anchildress1">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=fff&style=flat" />
   </a>
 </div>
 
