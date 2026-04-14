@@ -57,8 +57,9 @@ What I _don't_ want is a pull request diff filled with meaningless noise because
 
 ### 🎨 Creative
 
-- **[Carbon Trace](https://github.com/anchildress1/carbon-trace)** 🏗️ – Deterministic scene engine for interactive narrative using GSAP, Howler, and DOM animation. Built for WeCoded 2026 Frontend Art.
-- **[House of Accusations](https://github.com/anchildress1/house-of-accusations)** 🕵️ – Steampunk deduction engine with AI-evaluated logic. Just getting started.
+- **[Legacy Smelter](https://github.com/anchildress1/legacy-smelter)** — Developer fun to smelt problematic code into satirical incident reports. Build for April Fools DEV Challenge.
+- **[Carbon Trace](https://github.com/anchildress1/carbon-trace)** – Deterministic scene engine for interactive narrative using GSAP, Howler, and DOM animation. Built for WeCoded 2026 Frontend Art.
+- **[Architect of Suspicion](https://github.com/anchildress1/architect-of-suspicion)** 🕵️ – Industrial steampunk deduction engine with AI-evaluated logic. Just getting started.
 - **[Underfoot](https://github.com/CheckMarKDevTools/underfoot-underground-travel-planner)** 🗺️ – Hackathon project turned travel planner. Read the [origin story](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684).
 
 ### 📚 Resources
