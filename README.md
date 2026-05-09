@@ -10,6 +10,10 @@ Backend engineer by trade. **AI builder 🔧 and chaos architect 🌪️**—I b
 
 🔮 [anchildress1.dev](https://anchildress1.dev) · ✍️ [dev.to/anchildress1](https://dev.to/anchildress1)
 
+> 🏆 **2x DEV Challenge Winner — 2026**
+>
+> [WeCoded](https://carbon-trace.anchildress1.dev) · [Earth Day](https://unearthed.anchildress1.dev)
+
 ---
 
 ## Method to the Madness 🌀
@@ -57,8 +61,9 @@ What I _don't_ want is a pull request diff filled with meaningless noise because
 
 ### 🎨 Creative
 
-- **[Legacy Smelter](https://github.com/anchildress1/legacy-smelter)** — Developer fun to smelt problematic code into satirical incident reports. Build for April Fools DEV Challenge.
-- **[Carbon Trace](https://github.com/anchildress1/carbon-trace)** – Deterministic scene engine for interactive narrative using GSAP, Howler, and DOM animation. Built for WeCoded 2026 Frontend Art.
+- **[Carbon Trace](https://github.com/anchildress1/carbon-trace)** 🏆 – Immersive narrative on growing up under rigid gender expectations and engineering anyway. Canvas 2D + PixiJS + GSAP + Howler. **WeCoded 2026 Winner.**
+- **[Unearthed](https://github.com/anchildress1/unearthed)** 🏆 – Traces your electricity back to the specific coal mine feeding your grid. SvelteKit + FastAPI + Snowflake Cortex. **Earth Day 2026 Winner.**
+- **[Legacy Smelter](https://github.com/anchildress1/legacy-smelter)** — Developer fun to smelt problematic code into satirical incident reports. Built for April Fools DEV Challenge.
 - **[Architect of Suspicion](https://github.com/anchildress1/architect-of-suspicion)** 🕵️ – Industrial steampunk deduction engine with AI-evaluated logic. Just getting started.
 - **[Underfoot](https://github.com/CheckMarKDevTools/underfoot-underground-travel-planner)** 🗺️ – Hackathon project turned travel planner. Read the [origin story](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684).
 
